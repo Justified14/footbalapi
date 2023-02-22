@@ -7,19 +7,19 @@
     },
     {
         "name": "Chelsea",
-        "rating": 4.0,
+        "rating": 3.0,
         "uclwinner": true,
         "location": "England"
     },
     {
         "name": "Manchester United",
-        "rating": 3.5,
+        "rating": 4.0,
         "uclwinner": true,
         "location": "England"
     },
     {
         "name": "Liverpool",
-        "rating": 4.5,
+        "rating": 2.5,
         "uclwinner": true,
         "location": "England"
     },
